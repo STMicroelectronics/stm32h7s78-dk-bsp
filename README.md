@@ -1,0 +1,1 @@
+# stm32h7s78-dk-bsp
